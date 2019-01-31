@@ -1,0 +1,37 @@
+.div1{
+	display:block;
+	margin-left:37%;
+	background:black;
+	width:380px;
+	margin-right:0;
+}
+input{
+	width:285px;
+	height:50px;
+	font-size:30px;
+	background-color:white;
+	color:black;
+}
+button{
+	width:70px;
+	height:55px;
+	font-size:20px;
+	border-color:black;
+	color:white;
+	background-color:grey;
+}
+.main{
+	width:100%;
+}
+.blue{
+	background-color:blue;
+}
+.clear{
+	background-color:red;
+}
+body{
+	background-color:black;
+}
+h1{
+	color:blue;
+}
